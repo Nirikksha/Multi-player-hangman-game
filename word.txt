@@ -1,0 +1,185 @@
+apple,fruit
+orange,fruit
+banana,fruit
+strawberry,fruit
+cherry,fruit
+blueberry,fruit
+papaya,fruit
+mango,fruit
+pineapple,fruit
+kiwi,fruit
+watermelon,fruit
+muskmelon,fruit
+guava,fruit
+jackfruit,fruit
+pear,fruit
+potato,vegetable
+carrot,vegetable
+beans,vegetable
+peas,vegetable
+mushroom,vegetable
+brocoli,vegetable
+cabbage,vegetable
+raddish,vegetable
+lettuce,vegetable
+turnip,vegetable
+garlic,vegetable
+tomato,vegetable
+onion,vegetable
+yam,vegetable
+ginger,vegetable
+eye,body part
+nose,body part
+mouth,body part
+ear,body part
+leg,body part
+hand,body part
+liver,body part
+kidney,body part
+finger,body part
+toe,body part
+palm,body part
+nail,body part
+eye brow,body part
+neck,body part
+knee,body part
+india,country
+china,country
+pakisthan,country
+turkey,country
+spain,country
+italy,country
+france,country
+indonesia,country
+netherlands,country
+iraq,country
+iran,country
+nepal,country
+bhutan,country
+canada,country
+egypt,country
+austria,country
+ukraine,country
+brazil,country
+sri lanka,country
+japan,country
+colombia,country
+singapore,country
+sweden,country
+mexico,country
+israel,country
+norway,country
+oman,country
+thailand,country
+zimbabwe,country
+uganda,country
+sleep,verb
+eat,verb
+study,verb
+write,verb
+read,verb
+draw,verb
+take,verb
+lick,verb
+fly,verb
+feel,verb
+drink,verb
+attack,verb
+begin,verb
+give,verb
+call,verb
+challenge,verb
+speak,verb
+watch,verb
+walk,verb
+think,verb
+dance,verb
+sing,verb
+steal,verb
+stir,verb
+analyse,verb
+push,verb
+pull,verb
+apply,verb
+accept,verb
+deny,verb
+check,verb
+play,verb
+listen,verb
+invite,verb
+move,verb
+learn,verb
+fill,verb
+ask,verb
+call,verb
+close,verb
+open,verb
+decide,verb
+agree,verb
+sneeze,verb
+swim,verb
+tune,music
+rhythm,music
+violin,instrument
+piano,instrument
+guitar,instrument
+flute,instrument
+cello,instrument
+violin,instrument
+harp,instrument
+accordion,instrument
+trumpet,instrument
+drums,instrument
+harmonium,instrument
+piccolo,instrument
+saxophone,instrument
+cricket,sports
+volley ball,sports
+basket ball,sports
+throw ball,sports
+hockey,sports
+badminton,sports
+tennis,sports
+table tennis,sports
+wrestling,sports
+doctor,profession
+engineer,profession
+architect,profession
+electrician,profession
+plumber,profession
+lawyer,profession
+teacher,profession
+professor,profession
+lecturer,profession
+pottery,profession
+chef,profession
+driver,profession
+manager,profession
+baker,profession
+artist,profession
+musician,profession
+judge,profession
+politician,profession
+cashier,profession
+entrepreneur,profession
+pharmacist,profession
+dancer,profession
+singer,profession
+writer,profession
+astronaut,profession
+receptionist,profession
+athlete,profession
+nurse,profession
+postman,profession
+pilot,profession
+secretary,profession
+journalist,profession
+reporter,profession
+waiter,profession
+police,profession
+barber,profession
+librarian,profession
+carpenter,profession
+painter,profession
+tailor,profession
+chemist,profession
