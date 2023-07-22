@@ -6,7 +6,7 @@ import javax.swing.border.Border;
 public class intro 
 {
 	JFrame intro_frame;
-	JLabel title,name,regno,ack,logo;
+	JLabel title,name,ack,logo;
 	JButton startc,startp;
 	intro()
 	{
@@ -25,7 +25,7 @@ public class intro
 		name = new JLabel("K NIRIKKSHA");
 		name.setBounds(200,275,200,50);
 		intro_frame.add(name);
-		intro_frame.add(regno);
+		
 		
 		startc = new JButton("Play with computer");
 		//startc.addActionListener(this);
